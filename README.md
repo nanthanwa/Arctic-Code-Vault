@@ -1,5 +1,3 @@
-# Arctic-Code-Vault
-
 # Arctic Code Vault
 
 *Dear all men and aliens from the future,\
@@ -14,7 +12,7 @@ By the way, I also attached my picture below if you would like to see it.\
 \
 Warm regards,\
 Thanwa Jindarattana\
-February 31, 2020*
+February 2, 2020*
 
 #### My contact:
 
