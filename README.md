@@ -2,7 +2,7 @@
 
 *Dear all men and aliens from the future,\
 \
-My name is Thanwa Jindarattana (My old surname is Nooploy).\
+My name is Thanwa Jindarattana.\
 You can also call me Nan.\
 I was here, Earth (Bangkok, Thailand).\
 You can contact me if you are interested (and yeah if I'm still alive).\
