@@ -16,7 +16,7 @@ Warm regards,\
 Thanwa Jindarattana\
 February 2, 2020*
 
-#### My contact:
+### My contact:
 
 #### **Website:** [inan.in.th](https://www.inan.in.th)
 #### **Medium:** [medium.com/@thanwa](https://medium.com/@thanwa)
@@ -33,4 +33,4 @@ Attached picture\
 
 This repository has been created for GitHub Archive Program.\
 Preserving open source software for future generations.\
-[archiveprogram.github.com](https://archiveprogram.github.com).\
+[archiveprogram.github.com](https://archiveprogram.github.com).
