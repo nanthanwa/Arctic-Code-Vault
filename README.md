@@ -31,6 +31,6 @@ February 2, 2020*
 Attached picture\
 <img src="./img/image.jpg" width="500" />
 
-This repository has been created for GitHub Archive Program
-Preserving open source software for future generations
-https://archiveprogram.github.com/
+This repository has been created for GitHub Archive Program.\
+Preserving open source software for future generations.\
+[archiveprogram.github.com](https://archiveprogram.github.com).\
