@@ -10,7 +10,7 @@ I prefer Thai over other languages if you speak it too (I can read English as we
 \
 By the way, I also attached my picture below if you would like to see it.\
 This place called Krua Chukka Done (Thai restaurant) at Mae Klong Riverside in Kanchanaburi.\
-The mountain and the river are really beautiful. I love nature.
+The mountain and the river are really beautiful. I love nature.\
 \
 Warm regards,\
 Thanwa Jindarattana\
